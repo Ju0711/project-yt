@@ -1,6 +1,6 @@
 # project-yt
 
-THIS IS A YT PROJECT!
+THIS IS A YT PROJECT
 
 TODO:
 - test what api returns
